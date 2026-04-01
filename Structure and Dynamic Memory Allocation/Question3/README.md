@@ -1,0 +1,1 @@
+WAP to define a structure Distance having members as kms, and meters. Define a user-defined function AddDistance() which will recieve two structure variables as its arguments and will return a structure variables. The AddDistance() will add two distance values.
