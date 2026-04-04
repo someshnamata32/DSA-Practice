@@ -1,0 +1,1 @@
+Write a program in C to find out the transpose of any sparse matrix. Input the triplet matrix through the keyboard.

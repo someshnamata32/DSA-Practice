@@ -1,0 +1,1 @@
+Write a program in C to find out the triplet representation of any inputted sparse matrix.

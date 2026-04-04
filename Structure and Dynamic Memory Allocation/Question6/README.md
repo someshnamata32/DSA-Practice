@@ -1,0 +1,1 @@
+Write a program in C to allocate memory dynamically for an integer array. Check whether an inputted element is present in this array or not.

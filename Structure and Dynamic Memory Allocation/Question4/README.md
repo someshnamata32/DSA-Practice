@@ -1,0 +1,1 @@
+Write a program in C to allocate memory dynamically for an integer array of size 10. Enter the array elements and display their sum.

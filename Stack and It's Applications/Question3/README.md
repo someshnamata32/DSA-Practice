@@ -1,0 +1,1 @@
+Write a program in C to evaluate any arithmetic expression written in postfix notation using a stack.

@@ -1,0 +1,1 @@
+Write a program in C to check the validity of any expression containing nested parentheses using a stack.

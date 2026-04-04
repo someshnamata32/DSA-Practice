@@ -1,0 +1,1 @@
+Write a program in C to allocate memory dynamically for an array and find out the largest and smallest elements of the array.
